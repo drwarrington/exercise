@@ -1,0 +1,4 @@
+.//backup/exercise/index1.html
+.//git/exercise/index1.html
+.//git/exercise/index2.html
+.//git/exercise/index3.html
